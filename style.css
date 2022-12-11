@@ -1,0 +1,65 @@
+.pantallaInicio h1 {
+    font-size: 80px;
+    margin-top: 50px;
+}
+
+.pantallaInicio .btnOpc button {
+    font-size: 50px;
+    padding: 0px 40px 0px 40px;
+}
+
+.modoFacil {
+    display: none;
+}
+
+.puntaje {
+    position: fixed;
+    top: 10px;
+    right: 50px;
+}
+
+.pregunta {
+    font-size: 8vh;
+    margin: 50px 0px 30px 0px;
+    text-align: center;
+}
+
+.btnRespuestas button {
+    font-size: 50px;
+    padding: 0px 40px 0px 40px;
+    margin: 10px;
+}
+
+.modoDificil {
+    display: none;
+}
+
+.input {
+    font-size: 20px;
+    margin: 10px;
+    padding: 5px;
+    border: 2px solid gray;
+    border-radius: 10px;
+}
+
+.pantallaFinal {
+    display: none;
+}
+
+.pantallaFinal h2 {
+    font-size: 90px;
+    margin-top: 50px;
+}
+
+#puntajeFinal {
+    margin-top: 80px;
+    font-size: 50px;
+    text-decoration: overline;
+    text-decoration: underline;
+}
+
+#btnVolverEmpezar {
+    position: fixed;
+    bottom: 10vh;
+    font-size: 40px;
+}
